@@ -2,7 +2,7 @@
 
 # Overview
 
-Demo.py is a demonstreation of web scraping using Selenium 4 and Chrome webdriver. Towards the second half of the file we are connecting to DynamoDB and altering the database. The data in this example comes from [Apex Legends Status](https://apexlegendsstatus.com/live-ranked-leaderboards/Battle_Royale/PC).
+Demo.py is a demonstration of web scraping using Selenium 4 and Chrome Webdriver. The next half of the file we are connecting to DynamoDB and altering the database. The data in this example comes from [Apex Legends Status](https://apexlegendsstatus.com/live-ranked-leaderboards/Battle_Royale/PC).
 
 [Software Demo Video](https://youtu.be/p0IyfQXwI8Q)
 
@@ -12,7 +12,7 @@ The most trouble I ran into while working on this project was the webdriver. I f
 
 # Development Environment
 
-I am using the most recent chrome webdriver as well as selenium 4. All this can be run in almost any IDE, but it is recommended that you use python virtual environments such as anaconda.
+I am using the most recent chrome webdriver as well as selenium 4. This can be run in almost any IDE, but it is recommended that you use a python virtual environment such as anaconda.
 
 # Useful Websites
 
