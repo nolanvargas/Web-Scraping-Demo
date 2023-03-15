@@ -27,4 +27,4 @@ I am using the most recent chrome webdriver as well as selenium 4. All this can 
 Future work to be done here:
 
 - The delete process in this code will only delete as many rows as there are rows to be added.
-- Change explicit 15 second wait time to explicitly wait until the element has been rendered in the DOM.
+- Change explicit 15 second wait time to wait until the element has been rendered in the DOM.
